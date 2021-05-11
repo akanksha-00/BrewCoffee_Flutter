@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">1055598899616-ke35v5lkd3cus2d8cho3u02nk5g7bstt.apps.googleusercontent.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">1055598899616</string>
+    <string name="google_api_key" translatable="false">AIzaSyAD4nMblhTbKp0KXFnde5TnR1jw5NYee_k</string>
+    <string name="google_app_id" translatable="false">1:1055598899616:android:16f70e025ec9517c6434c5</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyAD4nMblhTbKp0KXFnde5TnR1jw5NYee_k</string>
+    <string name="google_storage_bucket" translatable="false">brew-cafe-618eb.appspot.com</string>
+    <string name="project_id" translatable="false">brew-cafe-618eb</string>
+</resources>
