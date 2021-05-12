@@ -1,6 +1,0 @@
-io/flutter/plugins/GeneratedPluginRegistrant.java
- io.flutter.plugins.GeneratedPluginRegistrant
-com/example/brew_coffee/MainActivity.java
- com.example.brew_coffee.MainActivity
-com/example/brew_coffee/BuildConfig.java
- com.example.brew_coffee.BuildConfig
